@@ -11,4 +11,4 @@ class Cat
 end
 
 kitty = Cat.new('Sophie')
-puts kitty
+puts kittys
